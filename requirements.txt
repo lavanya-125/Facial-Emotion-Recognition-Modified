@@ -1,0 +1,8 @@
+opencv-python
+deepface
+tensorflow
+keras
+numpy
+matplotlib
+tf_keras
+Pillow
